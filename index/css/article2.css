@@ -1,0 +1,35 @@
+div.article2 {
+    width: 1080px;
+    height: 675px;
+    background-image: url("../img/p2.jpg");
+}
+div.section1 {
+    width: 400px;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.p1 {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+p.p2 {
+    color: white;
+    font-size: 25px;
+}
+div.section2 {
+    width: 960px;
+    margin:60px 60px auto 60px;
+}
+div.part {
+    width: 300px;
+    height: 250px;
+    color: black;
+    float: left;
+    margin: 100px 10px auto 10px;
+    overflow: hidden;
+    border-radius: 20px 20px 20px 20px;
+    background-color: white;
+}

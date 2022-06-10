@@ -1,0 +1,16 @@
+div.article1 {
+    width: 1080px;
+    height: 200px;
+    text-align: center;
+    background-image: url("../img/p1.jpg");
+}
+p.p1 {
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    margin-bottom: 10px;
+}
+p.p2 {
+    color: white;
+    font-size: 25px;
+}

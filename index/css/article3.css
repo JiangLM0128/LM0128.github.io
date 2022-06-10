@@ -1,0 +1,42 @@
+div.article3 {
+    width: 1080px;
+    height: 675px;
+    background-image: url("../img/p6.jpg");
+}
+div.section3 {
+    width: 400px;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.section3 a {
+    color: white;
+    text-decoration: none;
+}
+div.section3 a:hover {
+    color: bisque;
+    text-decoration: underline;
+}
+p.p3 {
+    color: white;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+p.p4 {
+    color: white;
+    font-size: 25px;
+}
+div.section4 {
+    width: 1000px;
+    margin: 80px 40px auto 40px;
+}
+div.section4 li {
+    width: 240px;
+    height: 150px;
+    float: left;
+    background-color: white;
+    overflow: hidden;
+    margin: 5px 5px 5px 5px;
+    border-radius: 10px 10px 10px 10px;
+}

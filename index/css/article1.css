@@ -1,0 +1,34 @@
+div.article1 {
+    width: 1080px;
+    height: 675px;
+    background-image: url("../img/p1.jpg");
+}
+div.article1 ul {
+    color: white;
+    padding-top: 140px;
+}
+div.article1 li {
+    margin-top: 20px;
+    text-align: center;
+    list-style-type: none;
+}
+li.p1 {
+    font-size: 40px;
+}
+li.p2 {
+    font-size: 30px;
+}
+li.p3 {
+    font-size: 25px;
+}
+li.p4 {
+    font-size: 30px;
+}
+div.article1 a {
+    color: white;
+    text-decoration: none;
+}
+div.article1 a:hover {
+    color: bisque;
+    text-decoration: underline;
+}
