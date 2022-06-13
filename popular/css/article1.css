@@ -1,0 +1,39 @@
+div.article1 {
+    width: 1080px;
+    height: 250px;
+    color: white;
+    text-align: center;
+    background-image: url("../img/p1.jpg");
+}
+div.article1_header {
+    width: 1080px;
+    height: 200px;
+}
+p.p1 {
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    margin-bottom: 10px;
+}
+p.p2 {
+    color: white;
+    font-size: 25px;
+    padding-bottom: 85px;
+}
+div.article1_footer {
+    width: 1080px;
+    height: 50px;
+}
+div.article1_footer li {
+    height: 50px;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    list-style-type: none;
+}
+li.li1 {
+    width: 209px;
+}
+li.li2 {
+    width: 240px;
+}

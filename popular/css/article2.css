@@ -1,0 +1,32 @@
+div.article2 {
+    width: 1078px;
+    height: 1620px;
+    /*background-color: darkcyan;*/
+    border: 1px darkslategrey solid;
+}
+div.part {
+    width: 1078px;
+    height: 150px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+div.part li {
+    height: 150px;
+    float: left;
+    line-height: 150px;
+    text-align: center;
+    list-style-type: none;
+}
+li.li3 {
+    width: 209px;
+}
+li.li4 {
+    width: 240px;
+    height: 150px;
+    overflow: hidden;
+    background-color: wheat;
+    border-radius: 10px 10px 10px 10px;
+}
+li.li5 {
+    font-size: 20px;
+}
