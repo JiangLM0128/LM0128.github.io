@@ -1,0 +1,26 @@
+div.article1 {
+    width: 1078px;
+    height: 550px;
+    border: 1px darkslategrey solid;
+}
+div.section1 {
+    width: 880px;
+    height: 550px;
+    float: left;
+    background-color: wheat;
+}
+div.section2 {
+    width: 198px;
+    height: 100px;
+    float: left;
+    padding-top: 450px;
+}
+div.section2 p {
+    width: 180px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: darkcyan;
+    margin: auto auto 10px auto;
+    border-radius: 8px 8px 8px 8px;
+}

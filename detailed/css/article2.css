@@ -1,0 +1,27 @@
+div.article2 {
+    width: 1078px;
+    height: 380px;
+    border: 1px darkslategrey solid;
+}
+div.article2 ul {
+    padding: 0 7px 0 7px;
+}
+div.article2 li {
+    width: 256px;
+    height: 160px;
+    float: left;
+    overflow: hidden;
+    margin: 5px 5px 5px 5px;
+    background-color: wheat;
+    border-radius: 10px 10px 10px 10px;
+}
+div.article2 p {
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 0 0 20px 0;
+    background-color: darkslategrey;
+}

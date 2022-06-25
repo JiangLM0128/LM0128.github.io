@@ -1,0 +1,16 @@
+div.article4 {
+    width: 1072px;
+    height: 344px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border: 1px darkslategrey solid;
+}
+div.article4 li {
+    width: 256px;
+    height: 160px;
+    float: left;
+    overflow: hidden;
+    background-color: wheat;
+    border-radius: 10px 10px 10px 10px;
+    margin: 6px 6px 6px 6px;
+}
