@@ -8,7 +8,7 @@ div.part1 {
     height: 300px;
     overflow: hidden;
     margin: 2px 2px 2px 2px;
-    background-color: darkcyan;
+    background-color: darkslategrey;
     border-radius: 10px 10px 10px 10px;
 }
 div.part1_left {
@@ -28,13 +28,24 @@ div.part1_right {
     margin-bottom: 10px;
 }
 p.p3 {
+    color: wheat;
     font-size: 30px;
+    margin: 10px 10px 10px 10px;
 }
 p.p4 {
-    font-size: 20px;
+    color: white;
+    font-size: 15px;
+    margin: 30px 10px 60px 10px;
+}
+p.p4_1 {
+    color: white;
+    font-size: 15px;
+    margin: 30px 10px 90px 10px;
 }
 p.p5 {
     font-size: 20px;
+    text-align: right;
+    margin: 10px 20px 10px 10px;
 }
 div.part2 {
     width: 355px;
@@ -42,7 +53,7 @@ div.part2 {
     float: left;
     overflow: hidden;
     margin: 2px 2px 2px 2px;
-    background-color: darkcyan;
+    background-color: darkslategrey;
     border-radius: 10px 10px 10px 10px;
 }
 div.part2_top {
@@ -53,4 +64,10 @@ div.part2_top {
     margin: 9px 10px 9px 9px;
     background-color: wheat;
     border-radius: 10px 10px 10px 10px;
+}
+div.article2 a {
+    color: white;
+}
+div.article2 a:hover {
+    color: wheat;
 }

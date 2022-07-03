@@ -1,47 +1,46 @@
 div.article2 {
     width: 1078px;
-    height: 1010px;
-    text-align: center;
+    height: 1228px;
     border: solid 1px darkslategrey;
 }
 div.part {
-    width: 356px;
-    height: 500px;
-    float: left;
+    width: 1070px;
+    height: 200px;
     overflow: hidden;
-    border-radius: 10px 10px 10px 10px;
-    border: dotted 1px darkslategrey;
+    margin: 4px 4px 4px 4px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: darkslategray;
 }
-div.part_img {
+div.part_left {
     width: 350px;
     height: 200px;
     float: left;
     overflow: hidden;
     border-radius: 20px 20px 20px 20px;
-    margin: 3px 3px 3px 3px;
 }
-div.part_text {
-    width: 350px;
-    height: auto;
+div.part_right {
+    width: 700px;
+    height: 200px;
     float: left;
-    margin: 3px 3px 3px 3px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
-div.part_text li {
-    width: 110px;
+div.part_right li {
+    width: 175px;
     height: 60px;
     float: left;
-    text-align: center;
     line-height: 60px;
+    text-align: center;
     list-style-type: none;
-    overflow: hidden;
-    border-radius: 10px 10px 10px 10px;
-    background-color: darkslategrey;
-    margin: 3px 3px 3px 3px;
 }
-div.part_text a {
+div.part_right a {
     color: white;
+    font-size: 18px;
     text-decoration: none;
 }
-div.part_text a:hover {
+div.part_right a:hover {
+    color: bisque;
+    line-height: 60px;
     text-decoration: underline;
 }

@@ -7,9 +7,21 @@ div.article3_left {
     width: 400px;
     height: 250px;
     float: left;
+    overflow: hidden;
+    border-radius: 0 10px 10px 0;
 }
 div.article3_right {
     width: 680px;
     height: 250px;
     float: left;
+}
+p.p1 {
+    color: wheat;
+    font-size: 30px;
+    margin: 10px 10px 10px 10px;
+}
+p.p2 {
+    color: white;
+    font-size: 18px;
+    margin: 40px 10px 60px 10px;
 }
